@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/microservice
     username: root
-    password: Omkar66527
+    password: 
     driver-class-name: com.mysql.cj.jdbc.Driver
    
 eureka:
